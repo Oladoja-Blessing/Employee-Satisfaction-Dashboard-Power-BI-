@@ -1,5 +1,5 @@
 # 🧑‍💼 Employee Satisfaction Dashboard (Power BI)
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](./dashboard_preview.png)
 
 This project is a Power BI dashboard created using an employee satisfaction dataset from **Kaggle**. It explores the key drivers of employee satisfaction and provides actionable insights based on workload, tenure, salary, and department performance.
 
